@@ -1,0 +1,11 @@
+{
+  "id": "Text Replacer",
+  "name": "Text Replacer",
+  "version": "0.1.0",
+  "minAppVersion": "0.1.0",
+  "description": "Mass update all text from one input",
+  "author": "me",
+  "authorUrl": "",
+  "helpUrl": "",
+  "isDesktopOnly": false
+}
